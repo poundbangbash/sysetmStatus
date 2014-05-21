@@ -1,3 +1,8 @@
+echo "Office plist size"
+echo "=============================="
+ls -lh ~/Library/Preferences/com.microsoft.office.plist
+echo ""
+echo ""
 echo "Uptime"
 echo "=============================="
 uptime
